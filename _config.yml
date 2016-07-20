@@ -8,6 +8,9 @@ name: Monika Lynker
 # Short bio or description (displayed in the header)
 description: re-inventing herself 
 
+# Business Card (displayed in the header)
+businesscard: ../images/ActuarialAnalytics.png
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: ../images/ActuarialAnalytics.png
 

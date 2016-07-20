@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Ali Ishaq  FCAS, FSA, MAAA | Principal
+Ali Ishaq  FCAS, FSA, MAAA
+Principal
 
 ### More Information
 
-And there is more about me somewhere.
+There is more about me somewhere.
 
 ### Contact me
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-It's me.
+Ali Ishaq  FCAS, FSA, MAAA | Principal
 
 ### More Information
 
@@ -12,4 +12,5 @@ And there is more about me somewhere.
 
 ### Contact me
 
-[monikalynker@yahoo.com](mailto:monikalynker@yahoo.com)
++1.360.339.5867
+[ai@actuarial-analytics.com](mailto:ai@actuarial-analytics.com)

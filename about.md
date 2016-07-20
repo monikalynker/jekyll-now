@@ -4,13 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Ali Ishaq, Principal,  FCAS, FSA, MAAA
+Ali Ishaq, FCAS, FSA, MAAA
+
+Principal
+
 
 ### More Information
 
 We specialize in measuring, analyzing, and improving the performance of complex systems such as health care, insurance, and education.
 
-### Contact us
+### Contact 
 
 +1.360.339.5867
 

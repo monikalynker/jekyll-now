@@ -10,7 +10,7 @@ Ali Ishaq, Principal,  FCAS, FSA, MAAA
 
 We specialize in measuring, analyzing, and improving the performance of complex systems such as health care, insurance, and education.
 
-### Contact me
+### Contact us
 
 +1.360.339.5867
 

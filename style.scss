@@ -13,13 +13,15 @@
 /* BASE RULES */
 /**************/
 
+$font-stack: 'Merriweather', Georgia, serif, sans-serif;
+
 html {
   font-size: 100%;
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+  font: 18px/1.4 $font-stack;
   color: $darkGray;
 }
 

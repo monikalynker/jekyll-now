@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <TABLE>
-   <TR VALIGN="CENTER">
+   <TR VALIGN="Top">
       <TD><img src="/images/profilepic-ali.png" width="100"></TD>
       <TD> Ali Ishaq, FCAS, FSA, MAAA<br>
       Principal<br> 

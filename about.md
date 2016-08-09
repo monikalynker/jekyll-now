@@ -6,6 +6,8 @@ permalink: /about/
 
 Actuarial Analytics specializes in measuring, analyzing, and improving the performance of complex systems such as health care, insurance, and education.
 
+## The Team
+
 <TABLE>
    <TR>
       <TD align="center" valign="bottom"><img src="/images/profilepic-ali.png" width="100"></TD>
@@ -22,7 +24,7 @@ He is the principal and founder at Actuarial Analytics, a consultancy with the m
 
 <TABLE>
    <TR>
-      <TD><img src="/images/Steve2010Copy.jpeg" width="100"></TD>
+      <TD><img src="/images/Steve2010Copy.jpeg" width="80"></TD>
       <TD>Steve Byers <br>
       +1.360.259.0340 <br>
       <a target="_blank" href="http://www.helpinghumansystems.com">www.helpinghumansystems.com</a> <br>

@@ -4,7 +4,8 @@ title: The Team
 permalink: /about/
 ---
 
-<TABLE>
+<table cellspacing="10">
+<tbody valign="top">
    <TR>
       <TD align="center" valign="bottom"><img src="/images/profilepic-ali.png" width="100"></TD>
       <TD align="left" valign="top"> Ali Ishaq, FCAS, FSA, MAAA<br>

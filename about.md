@@ -6,7 +6,7 @@ permalink: /about/
 
 <TABLE>
    <TR>
-      <TD align="center" valign="center"><img src="/images/profilepic-ali.png" width="100"></TD>
+      <TD align="center" valign="bottom"><img src="/images/profilepic-ali.png" width="100"></TD>
       <TD align="left" valign="top"> Ali Ishaq, FCAS, FSA, MAAA<br>
       Principal<br> 
       +1.360.339.5867<br>

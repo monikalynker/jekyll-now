@@ -8,7 +8,7 @@ Actuarial Analytics specializes in measuring, analyzing, and improving the perfo
 
 ## The Team
 
-<TABLE align="left">
+<TABLE>
   <tr>
     <td align="left" valign="bottom"><span><img src="/images/profilepic-ali.png" width="100"></span></td>
     <td align="left" valign="top" width=70%"><span>Ali Ishaq, FCAS, FSA, MAAA<br/>

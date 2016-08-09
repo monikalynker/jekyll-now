@@ -6,14 +6,6 @@ permalink: /about/
 
 Actuarial Analytics specializes in measuring, analyzing, and improving the performance of complex systems such as health care, insurance, and education.
 
-## Contact 
-
-+1.360.339.5867 / [ai@actuarial-analytics.com](mailto:ai@actuarial-analytics.com)
-
-120 State Ave NE #175 <br>
-Olympia, WA 98501 <br>
-United States
-
 ## The Team
 
 <TABLE width="100%" align="left">
@@ -49,3 +41,11 @@ Steve Byers is an interdependent consultant who works with leaders, leadership t
 In collaboration with Actuarial Analytics, Steve helps leaders and their teams have the difficult conversations about the challenges of changing how they do business. In these conversations he draws on his experience in systems thinking, mutual learning, and adaptive leadership to invite reflection, cultivate awareness and insights, and support wise action. These conversations can take place in a retreat setting, or over a period of time within the flow of day to day activities. 
 
 If you’d like to learn more about Steve and his work, please visit his Helping Human Systems website and read his blog, "The Conversation is the Relationship."
+
+## Contact 
+
++1.360.339.5867 / [ai@actuarial-analytics.com](mailto:ai@actuarial-analytics.com)
+
+120 State Ave NE #175 <br>
+Olympia, WA 98501 <br>
+United States

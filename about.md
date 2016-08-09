@@ -8,10 +8,10 @@ Actuarial Analytics specializes in measuring, analyzing, and improving the perfo
 
 ## The Team
 
-<TABLE>
+<TABLE width="100%">
    <TR>
       <TD align="center" valign="bottom"><img src="/images/profilepic-ali.png" width="100"></TD>
-      <TD align="left" valign="top"> Ali Ishaq, FCAS, FSA, MAAA<br/>
+      <TD align="left" valign="top" width="70%"> Ali Ishaq, FCAS, FSA, MAAA<br/>
       Principal<br/> 
       +1.360.339.5867<br/>
       <a href="mailto:ai@actuarial-analytics.com" target="_top">ai@actuarial-analytics.com</a> </TD>

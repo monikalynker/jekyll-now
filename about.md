@@ -11,7 +11,7 @@ Actuarial Analytics specializes in measuring, analyzing, and improving the perfo
 <TABLE>
   <tr>
     <td align="left"><img src="/images/profilepic-ali.png" width="100"></td>
-    <td align="left" width="70%"><span>Ali Ishaq, FCAS, FSA, MAAA<br/>
+    <td align="left" width="80%"><span>Ali Ishaq, FCAS, FSA, MAAA<br/>
       Principal<br/> 
       +1.360.339.5867<br/>
       <a href="mailto:ai@actuarial-analytics.com" target="_top">ai@actuarial-analytics.com</a></span></td>
@@ -32,7 +32,7 @@ He is the principal and founder at Actuarial Analytics, a consultancy with the m
       +1.360.259.0340 <br>
       <a target="_blank" href="http://www.helpinghumansystems.com">www.helpinghumansystems.com</a> </span><br>
     </TD>
-    <TD><img src="/images/Steve2010Copy.jpeg" width="90"></TD>
+    <TD><img src="/images/Steve2010Copy.jpeg" width="100"></TD>
   </TR>
 </TABLE>
 

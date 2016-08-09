@@ -4,13 +4,12 @@ title: The Team
 permalink: /about/
 ---
 
-<table cellspacing="10">
-<tbody valign="top">
+<table>
    <TR>
       <TD align="center" valign="bottom"><img src="/images/profilepic-ali.png" width="100"></TD>
-      <TD align="left" valign="top"> Ali Ishaq, FCAS, FSA, MAAA<br>
-      Principal<br> 
-      +1.360.339.5867<br>
+      <TD align="left" valign="top"> Ali Ishaq, FCAS, FSA, MAAA<br/>
+      Principal<br/> 
+      +1.360.339.5867<br/>
       <a href="mailto:ai@actuarial-analytics.com" target="_top">ai@actuarial-analytics.com</a> </TD>
    </TR>
 </TABLE>

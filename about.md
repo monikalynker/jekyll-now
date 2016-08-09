@@ -8,7 +8,7 @@ Actuarial Analytics specializes in measuring, analyzing, and improving the perfo
 
 ## The Team
 
-<TABLE width="100%">
+<TABLE width="100%" align="left">
   <tr>
     <td valign="top" align="left"><img src="/images/profilepic-ali.png" width="100"></td>
     <td align="left">Ali Ishaq, FCAS, FSA, MAAA<br/>
@@ -25,7 +25,7 @@ He is the principal and founder at Actuarial Analytics, a consultancy with the m
 
 <HR ALIGN="center">
 
-<TABLE width="100%">
+<TABLE width="100%" align='right">
    <TR>
       <TD width="70%">Steve Byers <br>
       Cosultant <br>

@@ -10,7 +10,7 @@ Actuarial Analytics specializes in measuring, analyzing, and improving the perfo
 
 <TABLE>
   <tr>
-    <td align="left" valign="bottom"><span><img src="/images/profilepic-ali.png" width="100"></span></td>
+    <td align="left" valign="bottom"><img src="/images/profilepic-ali.png" width="100"></td>
     <td align="left" valign="top" width=70%"><span>Ali Ishaq, FCAS, FSA, MAAA<br/>
       Principal<br/> 
       +1.360.339.5867<br/>
@@ -25,12 +25,12 @@ He is the principal and founder at Actuarial Analytics, a consultancy with the m
 
 <HR WIDTH="80%" ALIGN="center">
 
-<TABLE align="right">
+<TABLE>
   <TR>
-    <TD width="60%">Steve Byers <br>
+    <TD width="60%"><span>Steve Byers <br>
       Cosultant <br>
       +1.360.259.0340 <br>
-      <a target="_blank" href="http://www.helpinghumansystems.com">www.helpinghumansystems.com</a> <br>
+      <a target="_blank" href="http://www.helpinghumansystems.com">www.helpinghumansystems.com</a> </span><br>
     </TD>
     <TD><img src="/images/Steve2010Copy.jpeg" width="90"></TD>
   </TR>

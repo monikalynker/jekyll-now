@@ -4,6 +4,8 @@ title:
 permalink: /about/
 ---
 
+Actuarial Analytics specializes in measuring, analyzing, and improving the performance of complex systems such as health care, insurance, and education.
+
 <TABLE>
    <TR>
       <TD align="center" valign="bottom"><img src="/images/profilepic-ali.png" width="100"></TD>

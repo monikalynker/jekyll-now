@@ -26,7 +26,6 @@ He is the principal and founder at Actuarial Analytics, a consultancy with the m
 <HR WIDTH="80%" ALIGN="center">
 
 <TABLE align="right">
-  <tr colspan="2"></tr>
   <TR>
     <TD width="60%">Steve Byers <br>
       Cosultant <br>

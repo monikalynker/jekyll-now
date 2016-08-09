@@ -19,19 +19,15 @@ Actuarial Analytics specializes in measuring, analyzing, and improving the perfo
   </tr>
 </thead>
 <tbody>
-   <TR>
-      <TD align="left" valign="center"><img src="/images/profilepic-ali.png" width="100"></TD>
-      <TD align="left" valign="top" width="70%"> Ali Ishaq, FCAS, FSA, MAAA<br/>
-      Principal<br/> 
-      +1.360.339.5867<br/>
-      <a href="mailto:ai@actuarial-analytics.com" target="_top">ai@actuarial-analytics.com</a> </TD>
-   </TR>
+   <tr>
+    <td colspan="2">Ali Ishaq works at the intersection of predictive modeling and actuarial science in healthcare, insurance, and regulation. Most recently he was the chief actuary for the Health Care Authority of Washington State where, among other things, he created a quality improvement model that aligns the costs and quality incentives in that State’s first public employees’ accountable care program. 
+
+He is the principal and founder at Actuarial Analytics, a consultancy with the mission of improving healthcare and other complex systems through a synthesis of predictive modeling and actuarial science.</td>
+  </tr> 
    </tbody>
 </TABLE>
 
-Ali Ishaq works at the intersection of predictive modeling and actuarial science in healthcare, insurance, and regulation. Most recently he was the chief actuary for the Health Care Authority of Washington State where, among other things, he created a quality improvement model that aligns the costs and quality incentives in that State’s first public employees’ accountable care program. 
 
-He is the principal and founder at Actuarial Analytics, a consultancy with the mission of improving healthcare and other complex systems through a synthesis of predictive modeling and actuarial science.
 
 <TABLE width="100%">
    <TR>

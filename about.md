@@ -28,7 +28,9 @@ He is the principal and founder at Actuarial Analytics, a consultancy with the m
 
 <TABLE width="100%">
   <TR>
-    <TD align="left" width="40%"><img src="/images/Steve2010Copy.jpeg" width="120"></TD>
+    <TD align="right" width="40%"><img src="/images/Steve2010Copy.jpeg" width="110"></TD>
+  </TR>  
+  <TR>
     <TD align="right"><span>Steve Byers <br>
       Consultant <br>
       +1.360.259.0340 <br>

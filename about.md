@@ -16,7 +16,9 @@ Actuarial Analytics specializes in measuring, analyzing, and improving the perfo
       +1.360.339.5867<br/>
       <a href="mailto:ai@actuarial-analytics.com" target="_top">ai@actuarial-analytics.com</a></span></td>
   </tr>
-  <tr colspan="2"></tr>
+  <tr>
+    <td align="right" width="40%"><img src="/images/profilepic-ali.png" width="120"></td>
+  </tr>
 </TABLE>
 
 Ali Ishaq works at the intersection of predictive modeling and actuarial science in healthcare, insurance, and regulation. Most recently he was the chief actuary for the Health Care Authority of Washington State where, among other things, he created a quality improvement model that aligns the costs and quality incentives in that State’s first public employees’ accountable care program. 

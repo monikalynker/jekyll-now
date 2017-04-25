@@ -2,7 +2,7 @@
 layout: post
 title: March for Science
 ---
-<img src="/images/march-for-science.jpg" align=left>
+<img src="/images/march-for-science.jpg" align=left width=120>
 <p>
 On Earth Day 2017 I marched for science together with more than 100,000 people in the US and around the world. 
 

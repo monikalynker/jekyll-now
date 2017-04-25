@@ -12,11 +12,9 @@ It is often said that large organizations are like aircraft carriers, requiring 
 
 <div class="floatright" style="width: 200px">
 <img src="/images/ussenterprise.jpeg"  alt="USS Enterprise" align=right width=200>
- <p class="caption">
-       USS Enterprise
-    </p>
- </div>
-<p>
+<span> USS Enterprise</span>
+</div>
+
 The other day Joe, a Navy veteran who served on the world’s first nuclear-powered aircraft carrier, the USS Enterprise, was recalling how one time when they were coming into NAS Alameda in the San Francisco Bay, he happened to be on the foredeck of the ship. As they neared the Golden Gate bridge, at a fairly high speed, he was horrified to realize that the mast was too tall to pass under it. But just as the great ship reached the bridge, it turned sharply to one side, causing it to tilt just enough for the mast to pass unscathed, with a few inches to spare. With relief he realized that this precise maneuver must have been planned well in advance. 
 
 It is true that governmental organizations or large corporations resemble large ships in the amount of momentum they have and how hard it is to  steer them, but these are like ships that have defective rudders, or where the steering wheels are missing. Or perhaps stretching the analogy a bit, ones with hundreds of steering wheels and multiple engines. 

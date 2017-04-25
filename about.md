@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-Actuarial Analytics specializes in measuring, analyzing, and improving the performance of complex systems such as health care, insurance, and education.
+At Actuarial Analytics we specialize in measuring, analyzing, and improving the performance of complex systems such as health care, insurance, and education.
 
 ## The Team
 

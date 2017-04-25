@@ -8,9 +8,17 @@ On Earth Day 2017 I marched for science together with more than 100,000 people i
 
 It was refreshing to see so many people holding signs declaring their support for science and evidence-based decisionmaking. But what now? Most rational people, once they stop to think about it, do support reason and even the most extreme politicians try to justify their views and actions within a logical framework. Yet that framework is often not based on data and evidence, but instead on beliefs and personal experience. 
 
+<div class="floatleft" style="width: 300px">
+    <img src="images/test.jpg" alt="images/test.jpg"
+    width="300" height="100"> 
+    <p class="caption">
+        The caption text
+    </p>
+ </div>
+
 It is often said that large organizations are like aircraft carriers, requiring lots of foresight to pilot; even moving slowly, these ship with tens of thousands of tons of deadweight, are hard to turn in a hurry. Yet, the course of such a ship sometimes has a tolerance of only a few feet. At these times everything has  to be planned well in advance: the engines have to work just hard enough and the wheel has be be turned at just right time and by just the right amount to avoid a collision.
 
-<figure class="floatright" style="width:200px"><img src="/images/ussenterprise.jpeg"  alt="USS Enterprise"><figcaption>USS Enterprise</figcaption></figure>
+<img src="/images/ussenterprise.jpeg"  alt="USS Enterprise" align=right width=200>
 <p>
 The other day Joe, a Navy veteran who served on the world’s first nuclear-powered aircraft carrier, the USS Enterprise, was recalling how one time when they were coming into NAS Alameda in the San Francisco Bay, he happened to be on the foredeck of the ship. As they neared the Golden Gate bridge, at a fairly high speed, he was horrified to realize that the mast was too tall to pass under it. But just as the great ship reached the bridge, it turned sharply to one side, causing it to tilt just enough for the mast to pass unscathed, with a few inches to spare. With relief he realized that this precise maneuver must have been planned well in advance. 
 

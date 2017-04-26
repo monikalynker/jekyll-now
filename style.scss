@@ -16,7 +16,7 @@
 $font-stack: 'Merriweather', Georgia, serif, sans-serif;
 
 html {
-  font-size: 50%;
+  font-size: 100%;
 }
 
 body {
@@ -67,7 +67,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 12px 0;
 }
 
 a {
@@ -80,7 +80,7 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
+  margin: 12px 0;
   padding-left: 30px;
 }
 
@@ -178,7 +178,7 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 10px;
   }
 }
 

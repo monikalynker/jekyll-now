@@ -5,7 +5,6 @@ title: March for Science
 
 On Earth Day 2017 I marched for science together with more than 100,000 people in the US and around the world. 
 <img style="float: left;" src="/images/march-for-science.png" width="400">
-
 It was refreshing to see so many people holding signs declaring their support for science and evidence-based decisionmaking. But what now? Most rational people, once they stop to think about it, do support reason and even the most extreme politicians try to justify their views and actions within a logical framework. Yet that framework is often not based on data and evidence, but instead on beliefs and personal experience. 
 
 It is often said that large organizations are like aircraft carriers, requiring lots of foresight to pilot; even moving slowly, these ship with tens of thousands of tons of deadweight, are hard to turn in a hurry. Yet, the course of such a ship sometimes has a tolerance of only a few feet. At these times everything has  to be planned well in advance: the engines have to work just hard enough and the wheel has be be turned at just right time and by just the right amount to avoid a collision.

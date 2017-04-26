@@ -4,9 +4,6 @@ title: March for Science
 ---
 
 On Earth Day 2017 I marched for science together with more than 100,000 people in the US and around the world. 
-<kbd>
-<img align="left" src="/images/march-for-science.jpg" width="200">
-</kbd>
 
 <img style="float: left;" src="/images/march-for-science.jpg" width="200">
 

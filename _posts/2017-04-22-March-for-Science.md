@@ -5,9 +5,7 @@ title: March for Science
 
 On Earth Day 2017 I marched for science together with more than 100,000 people in the US and around the world. 
 
-<p align="left">
-  <img src="/images/march-for-science.jpg" width="200" />
- </p>
+<img align="right" "/images/march-for-science.jpg" width="200">
 
 It was refreshing to see so many people holding signs declaring their support for science and evidence-based decisionmaking. But what now? Most rational people, once they stop to think about it, do support reason and even the most extreme politicians try to justify their views and actions within a logical framework. Yet that framework is often not based on data and evidence, but instead on beliefs and personal experience. 
 

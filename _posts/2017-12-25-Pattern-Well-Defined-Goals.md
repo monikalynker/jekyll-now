@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pattern: Well-Defined Goals
+title: A Pattern: Well Defined Goals
 ---
 
 

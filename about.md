@@ -45,6 +45,8 @@ Dr. Peter Martynowych holds both his Doctorate, with distinction, and Master?s d
 <TABLE width="100%">
   <tr>
   <td align="right" width="40%"><img src="/images/profilepic-leslie.png" width="120"></TD>
+   </tr>
+  <tr>
       <td align="right"><span>Leslie McGovern, M.A<br/>
       Principal<br/> 
       +1.206.915.2741<br>

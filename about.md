@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-Actuarial Analytics specializes in measuring, analyzing, and improving the performance of complex systems such as health care, insurance, and education.
+We specialize in measuring, analyzing, and improving the performance of complex systems such as health care, insurance, and education.
 
 ## The Team
 
@@ -36,9 +36,9 @@ He is the principal and founder at Actuarial Analytics, a consultancy with the m
    </tr>
 </TABLE>
 
-Dr. Peter Martynowych, thought leader in organizational development and leadership, contributes breakthrough strategies that allow organizations to liberate the creative solutions inherent in generative groups. In his research and action, Peter has demonstrated that with a new perspective and actionable framework, organizations will flourish far beyond their original expectations. When a leadership team flourishes, its members and employees are more fulfilled and committed to each other and to the organization?s success.
+Dr. Peter Martynowych, thought leader in organizational development and leadership, contributes breakthrough strategies that allow organizations to liberate the creative solutions inherent in generative groups. In his research and action, Peter has demonstrated that with a new perspective and actionable framework, organizations will flourish far beyond their original expectations. When a leadership team flourishes, its members and employees are more fulfilled and committed to each other and to the organization's success.
 
-Dr. Peter Martynowych holds both his Doctorate, with distinction, and Master?s degrees from Harvard University. His original research is a ground-breaking contribution to the fields of leadership, group process, and adult development. Peter has taught advanced Leadership Curriculum at Harvard University, Antioch Graduate School of Management, and Leadership Institute of Seattle, among others. In addition to his founding Phase FIVE, Dr. Martynowych maintains a private leadership advising practice that addresses organizational and personal challenges to produce successful and lasting change. He is conducting research for an upcoming book. 
+Dr. Martynowych holds both his Doctorate, with distinction, and Master's degrees from Harvard University. His original research is a ground-breaking contribution to the fields of leadership, group process, and adult development. Peter has taught advanced Leadership Curriculum at Harvard University, Antioch Graduate School of Management, and Leadership Institute of Seattle, among others. In addition to his founding Phase FIVE, Dr. Martynowych maintains a private leadership advising practice that addresses organizational and personal challenges to produce successful and lasting change. He is conducting research for an upcoming book. 
 
 
 
@@ -58,7 +58,7 @@ Leslie McGovern successfully partners with organizations and individuals to crea
 
 Leslie assists organizations to foster individuals and teams who continuously improve their performance and outcomes. Her experience in multi-cultural environments, plus her focus on women in leadership positions, has had a powerful impact on a diverse range of organizations including: the Washington State Labor Council, Microsoft, Rebound, New Community, Atlantic Philanthropies, Anne Frank & Friends Coalition, Northwest Coalition for Human Dignity, Army Corps of Engineers, Boeing, Amazon, European/American Human Rights, Japanese Business Community, and more.
 
-Leslie earned her Master?s Degree in Human and Organizational Development from Harvard University, has taught at Harvard, Northwest School for the Arts, Seattle Central Community College, and has delivered seminars internationally addressing Leadership and Change. Founder and principal at Phase FIVE, she is dedicated to organizations succeeding beyond what is held possible. 
+Leslie earned her Master's Degree in Human and Organizational Development from Harvard University, has taught at Harvard, Northwest School for the Arts, Seattle Central Community College, and has delivered seminars internationally addressing Leadership and Change. Founder and principal at Phase FIVE, she is dedicated to organizations succeeding beyond what is held possible. 
 
 Leslie is also the co-founder and editor of a blog which brings together women's collective experience, knowledge, and insight to help create a new approach to leadership, Leadership: the Women, and is conducting research for an upcoming book
 
@@ -79,7 +79,7 @@ Steve Byers is an interdependent consultant who works with leaders, leadership t
 
 In collaboration with Actuarial Analytics, Steve helps leaders and their teams have the difficult conversations about the challenges of changing how they do business. In these conversations he draws on his experience in systems thinking, mutual learning, and adaptive leadership to invite reflection, cultivate awareness and insights, and support wise action. These conversations can take place in a retreat setting, or over a period of time within the flow of day to day activities. 
 
-If you?d like to learn more about Steve and his work, please visit his Helping Human Systems website and read his blog, "The Conversation is the Relationship."
+If you'd like to learn more about Steve and his work, please visit the Helping Human Systems website and read his blog, "The Conversation is the Relationship."
 
 <HR WIDTH="80%" ALIGN="center">
 

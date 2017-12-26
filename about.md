@@ -26,12 +26,12 @@ He is the principal and founder at Actuarial Analytics, a consultancy with the m
 
 <TABLE width="100%">
   <tr>
-  <td align="right" width="40%"><img src="/images/profilepic-peter.png" width="100"></TD>
+  <td align="right" width="40%"><img src="/images/profilepic-peter.png" width="120"></TD>
   </tr>
   <tr>
-      <TD>Peter Martynowych, Ph.D<br>
-      Principal<br> 
-      +1.206.000.0000<br>
+      <td align="right"><span>Peter Martynowych, Ph.D<br/>
+      Principal<br/> 
+      +1.206.605.0690<br/>
       <a href="mailto:pm@actuarial-analytics.com" target="_top">pm@actuarial-analytics.com</a> </TD>
    </TR>
 </TABLE>
@@ -44,10 +44,10 @@ Dr. Peter Martynowych holds both his Doctorate, with distinction, and Master?s d
 
 <TABLE width="100%">
   <tr>
-  <td align="right" width="40%"><img src="/images/profilepic-leslie.png" width="100"></TD>
-      <TD>Leslie McGovern, M.A<br>
-      Principal<br> 
-      +1.206.000.0000<br>
+  <td align="right" width="40%"><img src="/images/profilepic-leslie.png" width="120"></TD>
+      <td align="right"><span>Leslie McGovern, M.A<br/>
+      Principal<br/> 
+      +1.206.915.2741<br>
       <a href="mailto:lm@actuarial-analytics.com" target="_top">lm@actuarial-analytics.com</a> </TD>
    </TR>
 </TABLE>

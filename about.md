@@ -32,8 +32,8 @@ He is the principal and founder at Actuarial Analytics, a consultancy with the m
       <td align="right"><span>Peter Martynowych, Ph.D<br/>
       Principal<br/> 
       +1.206.605.0690<br/>
-      <a href="mailto:pm@actuarial-analytics.com" target="_top">pm@actuarial-analytics.com</a> </TD>
-   </TR>
+      <a href="mailto:pm@actuarial-analytics.com" target="_top">pm@actuarial-analytics.com</a> </span></td>
+   </tr>
 </TABLE>
 
 Dr. Peter Martynowych, thought leader in organizational development and leadership, contributes breakthrough strategies that allow organizations to liberate the creative solutions inherent in generative groups. In his research and action, Peter has demonstrated that with a new perspective and actionable framework, organizations will flourish far beyond their original expectations. When a leadership team flourishes, its members and employees are more fulfilled and committed to each other and to the organization?s success.
@@ -50,7 +50,7 @@ Dr. Peter Martynowych holds both his Doctorate, with distinction, and Master?s d
       <td align="right"><span>Leslie McGovern, M.A<br/>
       Principal<br/> 
       +1.206.915.2741<br>
-      <a href="mailto:lm@actuarial-analytics.com" target="_top">lm@actuarial-analytics.com</a> </TD>
+      <a href="mailto:lm@actuarial-analytics.com" target="_top">lm@actuarial-analytics.com</a> </span></td>
    </TR>
 </TABLE>
 

@@ -49,7 +49,7 @@ Dr. Peter Martynowych holds both his Doctorate, with distinction, and Master?s d
   <tr>
       <td align="right"><span>Leslie McGovern, M.A<br/>
       Principal<br/> 
-      +1.206.915.2741<br>
+      +1.206.915.2741<br/>
       <a href="mailto:lm@actuarial-analytics.com" target="_top">lm@actuarial-analytics.com</a> </span></td>
    </TR>
 </TABLE>
@@ -62,18 +62,15 @@ Leslie earned her Master?s Degree in Human and Organizational Development from H
 
 Leslie is also the co-founder and editor of a blog which brings together women's collective experience, knowledge, and insight to help create a new approach to leadership, Leadership: the Women, and is conducting research for an upcoming book
 
-
-<HR WIDTH="80%" ALIGN="center">
-
 <TABLE width="100%">
   <TR>
     <TD align="right" width="40%"><img src="/images/Steve2010Copy.jpeg" width="110"></TD>
   </TR>  
   <TR>
-    <TD align="right"><span>Steve Byers <br>
-      Consultant <br>
+    <TD align="right"><span>Steve Byers <br/>
+      Consultant <br/>
       +1.360.259.0340 <br>
-      <a target="_blank" href="http://www.helpinghumansystems.com">www.helpinghumansystems.com</a> </span><br>
+      <a target="_blank" href="http://www.helpinghumansystems.com">www.helpinghumansystems.com</a> </span>
     </TD>
   </TR>
 </TABLE>
@@ -83,6 +80,8 @@ Steve Byers is an interdependent consultant who works with leaders, leadership t
 In collaboration with Actuarial Analytics, Steve helps leaders and their teams have the difficult conversations about the challenges of changing how they do business. In these conversations he draws on his experience in systems thinking, mutual learning, and adaptive leadership to invite reflection, cultivate awareness and insights, and support wise action. These conversations can take place in a retreat setting, or over a period of time within the flow of day to day activities. 
 
 If you?d like to learn more about Steve and his work, please visit his Helping Human Systems website and read his blog, "The Conversation is the Relationship."
+
+<HR WIDTH="80%" ALIGN="center">
 
 ## Contact 
 

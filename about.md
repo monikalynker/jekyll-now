@@ -38,7 +38,7 @@ He is the principal and founder at Actuarial Analytics, a consultancy with the m
 
 Dr. Peter Martynowych, thought leader in organizational development and leadership, contributes breakthrough strategies that allow organizations to liberate the creative solutions inherent in generative groups. In his research and action, Peter has demonstrated that with a new perspective and actionable framework, organizations will flourish far beyond their original expectations. When a leadership team flourishes, its members and employees are more fulfilled and committed to each other and to the organization's success.
 
-Dr. Martynowych holds both his Doctorate, with distinction, and Master's degrees from Harvard University. His original research is a ground-breaking contribution to the fields of leadership, group process, and adult development. Peter has taught advanced Leadership Curriculum at Harvard University, Antioch Graduate School of Management, and Leadership Institute of Seattle, among others. In addition to his founding Phase FIVE, Dr. Martynowych maintains a private leadership advising practice that addresses organizational and personal challenges to produce successful and lasting change. He is conducting research for an upcoming book. 
+Dr. Martynowych holds both his Doctorate, with distinction, and Master's degrees from Harvard University. His original research is a ground-breaking contribution to the fields of leadership, group process, and adult development. Peter has taught advanced Leadership Curriculum at Harvard University, Antioch Graduate School of Management, and Leadership Institute of Seattle, among others. In addition to his founding <a target="_blank" href="http://www.phasefive.net/the-roadmap/"> Phase FIVE </a>, Dr. Martynowych maintains a private leadership advising practice that addresses organizational and personal challenges to produce successful and lasting change. He is conducting research for an upcoming book. 
 
 
 
@@ -58,9 +58,9 @@ Leslie McGovern successfully partners with organizations and individuals to crea
 
 Leslie assists organizations to foster individuals and teams who continuously improve their performance and outcomes. Her experience in multi-cultural environments, plus her focus on women in leadership positions, has had a powerful impact on a diverse range of organizations including: the Washington State Labor Council, Microsoft, Rebound, New Community, Atlantic Philanthropies, Anne Frank & Friends Coalition, Northwest Coalition for Human Dignity, Army Corps of Engineers, Boeing, Amazon, European/American Human Rights, Japanese Business Community, and more.
 
-Leslie earned her Master's Degree in Human and Organizational Development from Harvard University, has taught at Harvard, Northwest School for the Arts, Seattle Central Community College, and has delivered seminars internationally addressing Leadership and Change. Founder and principal at Phase FIVE, she is dedicated to organizations succeeding beyond what is held possible. 
+Leslie earned her Master's Degree in Human and Organizational Development from Harvard University, has taught at Harvard, Northwest School for the Arts, Seattle Central Community College, and has delivered seminars internationally addressing Leadership and Change. Founder and principal at <a target="_blank" href="http://www.phasefive.net/the-roadmap/"> Phase FIVE </a>, she is dedicated to organizations succeeding beyond what is held possible. 
 
-Leslie is also the co-founder and editor of a blog which brings together women's collective experience, knowledge, and insight to help create a new approach to leadership, Leadership: the Women, and is conducting research for an upcoming book
+Leslie is also the co-founder and editor of a blog which brings together women's collective experience, knowledge, and insight to help create a new approach to leadership, Leadership: the Women, and is conducting research for an upcoming book.
 
 <TABLE width="100%">
   <TR>
